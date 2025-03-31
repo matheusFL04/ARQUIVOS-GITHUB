@@ -1,6 +1,7 @@
 ## Primeiro, acesse a pasta que deseja utilizar para clonar no VSCODE. 
 Para clonar os arquivos do Github, utilizar git clone *link do repositorio*.
 Após isso, utilizar cd *nome da pasta do repositorio*
+TESTEEEEEEEEE
 
 ## Já com os arquivos no VsCode salvos e o repositorio aberto, adicione os arquivos na "caixinha", esse passo é antes de enviar ao git. Utilize:
 
