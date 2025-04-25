@@ -6,7 +6,7 @@ Após isso, utilizar cd *nome da pasta do repositorio*
 
 "git add (nome do arquivo)": para subir apenas um arquivo
 
-"git add .": adiciona todos os arquivos alterados
+"git add *": adiciona todos os arquivos alterados
 
 ## Após colocar os arquivos na "caixinha", precisamos "embalar" e escrever uma mensagem para enviar ao GitHub. Utilize:
 
